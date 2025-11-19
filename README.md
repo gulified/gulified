@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Mechanical Engineer transitioning into Electromobility A.C.E.S with a Master's focus on energy-efficient systems and digital transformation.<br>My expertise includes Battery Technology, Smart Grid, and hands-on experience in MEP project supervision.<br><br><br><br>I have certified knowledge in SAP S/4HANA MM/SD and skills in Process Mining (Celonis), complementing my background in supply chain optimization.<br><br><br><br>I possess technical proficiency with AWS Cloud Services (EC2, S3, RDS, IAM) and engineering software like Plan Swift and SOLIDWORKS.<br><br><br><br><br>I'm currently pursuing my MSc in Electromobility A.C.E.S at FAU Erlangen-Nürnberg and am a proactive learner of new technologies.
+I'm a Mechanical Engineer transitioning into Electromobility A.C.E.S with a Master's focus on energy-efficient systems and digital transformation.My expertise includes Battery Technology, Smart Grid, and hands-on experience in MEP project supervision. I have certified knowledge in SAP S/4HANA MM/SD and skills in Process Mining (Celonis), complementing my background in supply chain optimisation.I possess technical proficiency with AWS Cloud Services (EC2, S3, RDS, IAM) and engineering software like PlanSwift and SOLIDWORKS. I'm currently pursuing my MSc in Electromobility A.C.E.S at FAU Erlangen-Nürnberg and am a proactive learner of new technologies.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@ I'm a Mechanical Engineer transitioning into Electromobility A.C.E.S with a Mast
 ![](https://nirzak-streak-stats.vercel.app/?user=gulified&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gulified&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/themechguyy) 
 
   
